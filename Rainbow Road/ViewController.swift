@@ -15,9 +15,9 @@ class ViewController: UIViewController {
     
     func buildColours () {
         let rgbVals:[(CGFloat,CGFloat,CGFloat)] = [
-            (241,90,90),
+            (250,90,90),
             (240,196,25),
-            (177,186,114),
+            (120,186,114),
             (57,214,195),
             (51,142,219),
             (149,91,165)
